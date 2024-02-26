@@ -11,6 +11,6 @@ public class Calculator {
    }
 
    public double getCurrentValue() {
-      return currentValue;
+      return currentValue;   
    }
 }
