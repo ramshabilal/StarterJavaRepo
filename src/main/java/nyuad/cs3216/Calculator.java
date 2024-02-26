@@ -11,6 +11,10 @@ public class Calculator {
    }
 
    public double getCurrentValue() {
-      return currentValue;
+      return currentValue;   
+   }
+
+   public void setCurrentValue(double currentValue) {
+      this.currentValue = currentValue;
    }
 }
